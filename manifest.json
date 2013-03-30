@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "答题助手",
+  "description": "2013-03-20",
+  "version": "1.0",
+
+  "permissions": [
+    "http://*/*"
+  ],
+  "browser_action": {
+    "default_icon": "ext.jpg",
+    "default_popup": "popup.html"
+  }
+}
